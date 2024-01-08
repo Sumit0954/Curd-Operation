@@ -1,0 +1,75 @@
+{
+  "student": [
+    {
+      "id": 10,
+      "name": "Clementina DuBuque",
+      "username": "Moriah.Stanton",
+      "email": "Rey.Padberg@karina.biz",
+      "address": {
+        "street": "Kattie Turnpike",
+        "suite": "Suite 198",
+        "city": "Lebsackbury",
+        "zipcode": "31428-2261",
+        "geo": {
+          "lat": "-38.2386",
+          "lng": "57.2232"
+        }
+      },
+      "phone": "024-648-3804",
+      "website": "ambrose.net",
+      "company": {
+        "name": "Hoeger LLC",
+        "catchPhrase": "Centralized empowering task-force",
+        "bs": "target end-to-end models"
+      }
+    },
+    {
+      "name": "Sumit Gusain",
+      "email": "gusainsumit555@gmail.com",
+      "phone": "09654976708",
+      "id": 12
+    },
+    {
+      "name": "praveen",
+      "email": "praveen@gmail.com",
+      "phone": "1234",
+      "id": 17
+    },
+    {
+      "name": "praveen",
+      "email": "praveen@gmail.com",
+      "phone": "1234",
+      "id": 18
+    },
+    {
+      "name": "praveen",
+      "email": "praveen@gmail.com",
+      "phone": "1234",
+      "id": 19
+    },
+    {
+      "name": "praveen",
+      "email": "praveen@gmail.com",
+      "phone": "1234",
+      "id": 21
+    },
+    {
+      "name": "praveen",
+      "email": "praveen@gmail.com",
+      "phone": "1234",
+      "id": 22
+    },
+    {
+      "name": "jyoti kanwal",
+      "email": "jyoti@gmail.com",
+      "phone": "00000000000",
+      "id": 23
+    },
+    {
+      "name": "yyyy",
+      "email": "jyoti@gmail.com",
+      "phone": "123",
+      "id": 24
+    }
+  ]
+}
